@@ -1,7 +1,7 @@
 # SEO keywords and description for your site.
 keywords = "football"
 subtitle = "Ameen Mahmood"
-favicon = "https://github.com/jwjeffr/recipes/raw/refs/heads/main/static/favicon.ico"
+favicon = "https://github.com/ameenmahmood/FF/blob/main/static/52735americanfootball_109430.ico"
 
 # dir name of your blog content (default is `content/posts`).
 # the list of set content will show up on your index page (baseurl).
@@ -16,7 +16,7 @@ showAuthor = true
   email = "ameenbmahmood@gmail.com"
 
 [header]
-  logo = "https://github.com/jwjeffr/recipes/raw/refs/heads/main/static/icon.png"
+  logo = "https://github.com/ameenmahmood/FF/blob/main/static/52735americanfootball_109430.ico"
   title = "Shenantsay Fantasy Football"
 
 [footer]
@@ -25,7 +25,7 @@ showAuthor = true
 
 [pwa]
   enabled = true
-  icon = "https://github.com/jwjeffr/recipes/raw/refs/heads/main/static/icon.png" # should be in assets
+  icon = "https://github.com/ameenmahmood/FF/blob/main/static/52735americanfootball_109430.ico" # should be in assets
   icon_sizes = [192, 512]
 
   [manifest]
