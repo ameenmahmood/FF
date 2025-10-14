@@ -8,6 +8,8 @@ image = ""
 ### Week 6 Preview and Trades
 Coming off a couple of key wins, several teams sought to continue their hot streak by beefing up their rosters after some key injuries. A blockbuster trade from Neb's Saquon for Danny's Derrick Henry and Jordan Addison, moving one of last year's runner-up for MVP. Will this be enough to snap Danny's 5 loss win streak? Only time will tell. Otherwise, it was a quiet week of trading. 
 
+### Week 6 Matchups
+
 **Levi vs Lonny**
 
 Levi had an exciting night of TNF, with one of the most electric RB to watch recently with Skattebo and Robinson paying off big time. Thursday night set the tone for the rest of the week for Levi, as he went into Sunday and Monday with a comfortable lead. Unfortunately, disaster struck Lonny with Puka going down early and remains questionable. We could be witnessing the WR1 of the league go down, and with a 1-4 start, there could be rough times ahead for Lonny. Levi easily secured the W, snapping his lost streak. 
@@ -39,5 +41,6 @@ We’re just about to hit the midway mark of the regular season. Will we see the
 ![beer image](https://thebeerexchange.io/wp-content/uploads/2023/07/chugging-beer-1024x683.jpg)
 
 Kyler Murray, 0 pts from Ben Brown iCloud. No comment yet but I presume some hiking trips left him with the unfortunate donut on his lineup. 
+
 Ja'Tavion Sanders, 0 pts from Hern. No comment yet but I presume getting piss drunk at Tin caused the slippage. 
 
