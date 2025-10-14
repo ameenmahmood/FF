@@ -1,5 +1,5 @@
 +++
-title = "Chicken Tinga Ramen"
+title = "Test"
 date = "2024-12-10T01:18:32+01:00"
 description = "A wonderful marriage of chicken tinga and ramen"
 tags = ["Mexican", "Japanese"]
