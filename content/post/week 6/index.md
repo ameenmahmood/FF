@@ -12,7 +12,7 @@ Coming off a couple of key wins, several teams sought to continue their hot stre
 
 **Levi vs Lonny**
 
-Levi had an exciting night of TNF, with one of the most electric RB to watch recently with Skattebo and Robinson paying off big time. Thursday night set the tone for the rest of the week for Levi, as he went into Sunday and Monday with a comfortable lead. Unfortunately, disaster struck Lonny with Puka going down early and remains questionable. We could be witnessing the WR1 of the league go down, and with a 1-4 start, there could be rough times ahead for Lonny. Levi easily secured the W, snapping his lost streak. 
+Levi had an exciting night of TNF, with one of the most electric RB to watch recently with Skattebo and Robinson paying off big time. Thursday night set the tone for the rest of the week for Levi, as he went into Sunday and Monday with a comfortable lead. Unfortunately, disaster struck Lonny with Puka going down early and remains questionable. We could be witnessing the WR1 of the league go down, and with a 1-4 start, there could be rough times ahead for Lonny. Levi easily secured the W, snapping his loss streak. 
 
 **Jed vs Danny**
 
