@@ -1,6 +1,6 @@
 # SEO keywords and description for your site.
-keywords = "cooking, recipes"
-subtitle = "Jacob Jeffries"
+keywords = "football"
+subtitle = "Ameen Mahmood"
 favicon = "https://github.com/jwjeffr/recipes/raw/refs/heads/main/static/favicon.ico"
 
 # dir name of your blog content (default is `content/posts`).
@@ -12,12 +12,12 @@ jsonLD = true
 showAuthor = true
 
 [author]
-  name = "Jacob Jeffries"
-  email = "jwjeffries2000@gmail.com"
+  name = "Ameen Mahmood"
+  email = "ameenbmahmood@gmail.com"
 
 [header]
   logo = "https://github.com/jwjeffr/recipes/raw/refs/heads/main/static/icon.png"
-  title = "Cooking Blog"
+  title = "Shenantsay Fantasy Football"
 
 [footer]
   since = 2025
@@ -29,4 +29,4 @@ showAuthor = true
   icon_sizes = [192, 512]
 
   [manifest]
-  description = "My personal cooking blog"
+  description = "Keeping up with all the drama"
