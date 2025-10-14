@@ -1,6 +1,6 @@
-baseURL = "https://jwjeffr.github.io/recipes"
-title = "My cooking blog!"
-copyright = "Jacob Jeffries"
+baseURL = "https://ameenmahmood.github.io/FF"
+title = "Shenantasy Fantasy Football"
+copyright = "Ameen Mahmood"
 pagination.pagerSize = 3 # for demonstration of pagination
 languageCode = "en"
 defaultContentLanguage = "en"
