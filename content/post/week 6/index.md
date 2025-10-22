@@ -3,7 +3,7 @@ title = "2025 Week 6 Matchups"
 date = "2025-10-14"
 description = "Lackluster thrill"
 tags = ["2025"]
-image = "![display image](https://havokjournal.com/wp-content/uploads/2021/04/war-battle-soldier-city-why-scaled.jpeg)"
+image = "https://havokjournal.com/wp-content/uploads/2021/04/war-battle-soldier-city-why-scaled.jpeg"
 +++
 
 ### Week 6 Preview and Trades
