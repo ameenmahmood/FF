@@ -1,7 +1,8 @@
 +++
-title = "Week 6 Matchups"
+title = "2025 Week 6 Matchups"
 date = "2025-10-14"
 description = "Lackluster thrill"
+tags = ["2025"]
 image = ""
 +++
 
