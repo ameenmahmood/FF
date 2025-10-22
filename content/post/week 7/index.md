@@ -18,6 +18,7 @@ No trades went through this week but the chat was buzzing. Everyone is floating 
 Tight game here. Ameen edges out Lonny by four keeping pace at 5 and 2 while Lonny falls to a grim 1 and 6. It has been that kind of season for him. Close and competitive but always one guy short of pulling it off. Kittle giving him a zero did not help. Ameen is not flashy but he finds ways to win and that is what matters right now.
 
 **Levi 108 def Danny 79**
+
 Another rough one for Danny. 0 and 7 now and it is starting to get sad. He is setting lineups and trying but the football gods just keep kicking him in the shins. He's got the potential but having three 25+ scoring players on the bench is brutal. Levi moves to 3 and 4, quietly clawing back to 500. Not a statement win but he will take it. Danny might need an emotional support animal at this point.
 
 **Ben Brown 115 def Neb 66**
