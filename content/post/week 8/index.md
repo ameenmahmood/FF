@@ -34,7 +34,7 @@ Jack just keeps doing Jack things. Quiet, consistent, and somehow always on top.
 Week 8 had it all: trades, a resurrection, and a couple of games so bad they should be erased from the record. Jed’s rolling, Jack’s steady, Ameen’s heating up, and Hern’s out here writing the saddest stat lines in league history. The season’s halfway gone and half the league’s either praying for a miracle or pretending they’re fine.
 
 
-### Primetime Matchup of Week 8
+### Week 9 Primetime Matchup
 Oh man, here we go. Woods vs Levi. Four-point projection difference. Two middle-of-the-pack maniacs trying to prove they’re still relevant. Levi’s feeling lucky after that defensive miracle last week, and Woods is desperate to stop the bleeding. Both need a win bad, and it’s gonna come down to who’s less likely to forget to set their lineup. Someone’s leaving this week drunk and happy, someone’s throwing their phone at the wall.
 
 
