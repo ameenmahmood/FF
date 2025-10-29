@@ -1,7 +1,7 @@
 
 +++
 title = "2025 Week 8 Matchups"
-date = "2025-10-22"
+date = "2025-10-28"
 description = "Midseason Madness"
 tags = ["2025"]
 image = "https://static.vecteezy.com/system/resources/previews/007/695/521/large_2x/gauss-distribution-standard-normal-distribution-gaussian-bell-graph-curve-business-and-marketing-concept-math-probability-theory-editable-stroke-illustration-isolated-on-white-background-vector.jpg"
