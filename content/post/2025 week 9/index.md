@@ -4,7 +4,7 @@ title = "2025 Week 9 Matchups"
 date = "2025-11-06"
 description = "Bench Blunders"
 tags = ["2025"]
-image = "https://static.vecteezy.com/system/resources/previews/007/695/521/large_2x/gauss-distribution-standard-normal-distribution-gaussian-bell-graph-curve-business-and-marketing-concept-math-probability-theory-editable-stroke-illustration-isolated-on-white-background-vector.jpg"
+image = "https://uproxx.com/wp-content/uploads/2021/01/sad-ben.jpeg?w=975"
 +++
 
 ### Week 9 Preview and Trades
