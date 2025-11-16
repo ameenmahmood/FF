@@ -5,6 +5,7 @@ date = "2025-11-13"
 description = "Bartender Brutality"
 tags = ["2025"]
 image = "https://cdn1.matadornetwork.com/blogs/1/2022/12/LL-In-the-Back-Photography.jpeg"
+name = "Danny"
 +++
 
 ### Week 10 Preview and Trades
