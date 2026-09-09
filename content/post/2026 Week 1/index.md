@@ -1,9 +1,9 @@
 
 +++
-title = "2025 Week 9 Matchups"
-date = "2025-11-06"
-description = "Bench Blunders"
-tags = ["2025"]
+title = "2026 Week 1 Matchups"
+date = "2026-09-09"
+description = "test"
+tags = ["2026"]
 image = "https://uproxx.com/wp-content/uploads/2021/01/sad-ben.jpeg?w=975"
 +++
 
