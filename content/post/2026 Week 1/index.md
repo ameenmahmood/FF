@@ -4,7 +4,7 @@ title = "2026 Week 1 Matchups"
 date = "2026-09-15"
 description = "The madness resumes"
 tags = ["2026"]
-image = ""
+image = "https://reallycoolblog.com/wp-content/uploads/2023/08/0f3ed07dde6cd176/here-we-go-again-meme.jpeg"
 +++
 
 ### Week 1 Preview and Trades
@@ -19,34 +19,37 @@ Only God knows why we subject ourselves to this humiliation ritual year after ye
 One of the closer matchups for the week. Mostly a good showing for both teams with the only major stinker coming from Omarion Hampton for Ameen, but with the CTE special from Skattebo and Puka, he manages to keep it close. On the other side, Neb gets it done with the quadruple penetration with jeanty, williams, Amon-Ra, and Flowers combining for 111.6. Solid showing, even if the titans def got -1 against the jets, but i see the vision. 
 
 
-**Lonny 125 def Ben Brown 100**
-
-Lonny’s alive and kicking. After weeks of misery, the man puts together a clean win and actually looked competent, taking down a team in the Big 4. Ben Brown gave him a decent fight but couldn’t keep up. Lonny’s season still looks like a car crash in slow motion, but hey, a win’s a win. He’s got momentum for the first time in forever and maybe, just maybe, he can build off it. Lonny improves to 2 and 7, while Ben continues the losing streak of 2, dropping to 6 and 3 and exiting the big 4. 
-
 **Danny 120 def Jed 112**
 
+Last year's loser vs a previous winner, straight Shakespeare. After the disastrous last season from Danny, it's nice to see him get the win right off the bat, even if he was clowning around during the draft. Jed is definitely telling his grandmother that Derrick Henry is still getting it done like when she was young. 
 
 
-**Levi 112 def Woods 107**
+**Cochran 142 def Hern 128**
 
-Now this one was tight. Our primetime matchup of week 9 did NOT disappoint, Vegas predicting the over under almost perfectly. Woods came in hungry, trying to finally turn things around, but Levi just barely outlasted him. Both put up respectable numbers, both looked like they wanted it, but Levi’s consistency wins out again. Woods drops another one and sits at 2 and 7, officially on life support. Levi gets a solid win to keep himself in the mix, proving that luck might actually exist in this godforsaken league.
+The young doctors and engineers in paris rallied together to give cochran the easy win. Cruising along with a comfortable 14 point lead, there was not much hope for Hern. With a standout performance from JSN and surprisingly, Dallas Goedert, I am sure Cochran will be riding this for the week. Hern had some extreme standouts but also horrible performances; the locker room will know exactly who to point fingers at. 
 
-**Jack 120 def Neb 67**
+**Woods 14_ def Jack 102**
 
-This wasn’t a game, it was a crime scene. Jack dismantled Neb like he owed him money. 120 to 67, not even close. Jack’s 7 and 2 now and looking like a serious playoff threat, and this was before the new roster even hit the field. Neb’s team just didn’t show up, simple as that. The man’s been spiraling and this week didn’t help.
+Out of respect for Jayden Daniels, we have omitted the last number of Woods' score. Woods may have been removed from power but that doesnt mean he does not have allies in the deep state, as that is the only thing that could explain this dominate performace. Not a single player on jack's starting lineup broke 20, just looks like they showed up to do some cardio (except AJ brown, he felt like he needed a break). 
 
-**Jonah 107 def Jed 106**
+**Lonny 107 def Ben B 102**
 
-Game of the week right here. Jonah sneaks past Jed by less than a point in an absolute nail-biter. Jed’s been dominating all year, but Jonah stood tall and finally took him down. It’s one of those wins that feels like a Super Bowl. Jonah’s quietly putting together a strong stretch, and Jed finally looked mortal. One point. That’s the stuff fantasy heartbreaks are made of.
+Closest matchup of the week. It wasn't pretty, it wasn't comfortable, hell, it might not have even been fun. But this is the kind of win that gets a manager checking his phone every 30 seconds like something has changed, until it finally does. Ben Brown moving to NYC doesn't help his case, maybe he's feeling a little more "sharing" and "for the people" with the points and the wins.
+
+**Levi 113 def Jonah 73**
+
+Jonah is often the one to make the special treatment jokes but this time, but this week, Levi special treatmented all over Jonah and the Boners. Jonah's offense looked like they had too much fun at Magic City to perform on Sunday and was struggling with their lives on the field. With Levi riding this high, we should expect some lowball trades this week. 
 
 
-### Week 10 Primetime Matchup
+### Week 2 Primetime Matchup
 
-This one’s spicy. Lonny’s coming off a big win over Ben Brown, and Nolan’s heating up after taking down Danny. Only a one-point difference in projections, a true coin flip game. Lonny’s out for blood, Nolan’s fighting for survival, and both are probably already talking shit in their heads. Somebody’s streak ends here, and the fallout’s gonna be hilarious.
+All eyes will be on the previous deep state and Joner's Boners. If Woods does indeed have agents still hidden in command central, they will certainly expose themselves this week. Vegas has the line of Jonah winning by +3. A bounceback from Jonah could certainly set the tone for the rest of the season, while Woods will look to keep the streak alive. 
 
-Week 10 had it all: trades, bench blunders, heartbreak, and the kind of chaos that keeps this league alive. Jack’s climbing, Ameen’s steady, and Hern’s still finding new ways to make us all question humanity. Lonny’s suddenly hot, Danny’s back in the mud, and Jed finally bleeds. The playoff race is getting wild, boys.
+Week 1 is here to remind us all what we have been missing for 6 months, or for some, what we dread to see on Tuesday morning for the next 5 months. But whichever camp you fall into, we are all here to stay for the weekly exercise in delusion. If week 1 football teaches us anything, it's that nobody is safe, nobody knows what's going on, and special treatment WILL be given out. 
 
-### Beer Chugs of the Week
-![beer image](https://tse2.mm.bing.net/th/id/OIP.vbjw2vAGlnSbRP9eYk7WPQHaDe?rs=1&pid=ImgDetMain&o=7&rm=3)
+### Donuts of the Week
+![beer image](https://superheroeseatingfood.com/wp-content/uploads/2020/06/iron-man2-donut-1024x463.jpg)
 
-Hern. Again. For not starting someone at WR. 
+Hern: Kyle Pitts but who didnt see that coming when he almost had a WR throwing the ball
+Jonah: Colston Loveland, i hope this lungs feel better
+
